@@ -24,5 +24,13 @@
 		<div class="top-bar">
 			top bar
 		</div>
+		<div class="main-container">
+			<div class="sidebar">
+				sidebar
+			</div>
+			<div class="content">
+				content
+			</div>
+		</div>
 	</body>
 </main>
