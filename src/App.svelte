@@ -22,7 +22,10 @@
 
 	<body>
 		<div class="top-bar">
-			top bar
+			<form>
+				<input class="tbutton" type="button" value="ayo"> 
+				<input class="fpath" type="search" id="fpath" name="fpath">
+			</form>
 		</div>
 		<div class="main-container">
 			<div class="sidebar">
