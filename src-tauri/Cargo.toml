@@ -1,11 +1,11 @@
 [package]
-name = "app"
+name = "Kita"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
-default-run = "app"
+description = "A extendable and themeable file manager"
+authors = ["Luramoth"]
+license = "AGPL-3.0"
+repository = "https://github.com/Luramoth/Kita-fs"
+default-run = "Kita"
 edition = "2021"
 rust-version = "1.57"
 
